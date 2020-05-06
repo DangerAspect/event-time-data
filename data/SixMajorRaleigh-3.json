@@ -1,0 +1,28 @@
+{
+    "eventName": "Raleigh Major 2019: Day 3",
+    "venueTime": "2019-08-18T10:30",
+    "description": "<a href=\"#SixMajorRaleigh/1\">Day 1</a> / <a href=\"#SixMajorRaleigh/2\">Day 2</a> / <a href=\"#SixMajorRaleigh/3\">Day 3</a>. Times are estimates based on match length and may change. Watch on <a href=\"https://www.twitch.tv/rainbow6\">Twitch</a>!",
+    "timeZone": "America/New_York",
+    "schedule": [
+        {
+            "name": "Opening Ceremony",
+            "venueTime": "2019-08-18T10:30"
+        },
+        {
+            "name": "\ud83c\udfc5 Showmatch",
+            "venueTime": "2019-08-18T11:00"
+        },
+        {
+            "name": "\ud83c\udf89 Operation Ember Rise Reveal and Esports Panel",
+            "venueTime": "2019-08-18T13:30"
+        },
+        {
+            "name": "\ud83c\udfc5 Grand Final  ",
+            "venueTime": "2019-08-18T14:30"
+        },
+        {
+            "name": "Closing Ceremony",
+            "venueTime": "2019-08-18T19:30"
+        }
+    ]
+}

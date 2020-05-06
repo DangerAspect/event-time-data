@@ -1,0 +1,32 @@
+{
+    "eventName": "Raleigh Major 2019: Day 1",
+    "venueTime": "2019-08-16T09:00",
+    "description": "<a href=\"#SixMajorRaleigh/1\">Day 1</a> / <a href=\"#SixMajorRaleigh/2\">Day 2</a> / <a href=\"#SixMajorRaleigh/3\">Day 3</a>. Times are estimates based on match length and may change. Watch on <a href=\"https://www.twitch.tv/rainbow6\">Twitch</a>!",
+    "timeZone": "America/New_York",
+    "schedule": [
+        {
+            "name": "Opening Ceremony",
+            "venueTime": "2019-08-16T09:00"
+        },
+        {
+            "name": "\ud83c\udfc5 Quarter Final 1",
+            "venueTime": "2019-08-16T10:00"
+        },
+        {
+            "name": "\ud83c\udfc5 Quarter Final 2",
+            "venueTime": "2019-08-16T13:00"
+        },
+        {
+            "name": "\ud83c\udfc5 Quarter Final 3",
+            "venueTime": "2019-08-16T16:00"
+        },
+        {
+            "name": "\ud83c\udfc5 Quarter Final 4",
+            "venueTime": "2019-08-16T19:00"
+        },
+        {
+            "name": "Daily Wrap-up",
+            "venueTime": "2019-08-16T22:20"
+        }
+    ]
+}

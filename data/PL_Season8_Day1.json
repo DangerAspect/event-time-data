@@ -1,0 +1,23 @@
+{
+    "eventName": "Rainbow Six Pro League Season 8 Finals",
+    "venueTime": "2018-11-17T10:45:00",
+    "timeZone": "America/Sao_Paulo",
+    "schedule": [
+        {
+            "name": "Match 1",
+            "venueTime": "2018-11-17T11:00:00"
+        },
+        {
+            "name": "Match 2",
+            "venueTime": "2018-11-17T13:30:00"
+        },
+        {
+            "name": "Match 3",
+            "venueTime": "2018-11-17T15:00:00"
+        },
+        {
+            "name": "Match 4",
+            "venueTime": "2018-11-17T16:30:00"
+        }
+    ]
+}

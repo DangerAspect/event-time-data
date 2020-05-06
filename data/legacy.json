@@ -1,0 +1,238 @@
+{
+    "PL_Season8_Day1": {
+        "eventName": "Rainbow Six Pro League Season 8 Finals",
+        "venueTime": "2018-11-17T10:45:00",
+        "timeZone": "America/Sao_Paulo",
+        "schedule": [
+            {"name": "Match 1", "venueTime": "2018-11-17T11:00:00"},
+            {"name": "Match 2", "venueTime": "2018-11-17T13:30:00"},
+            {"name": "Match 3", "venueTime": "2018-11-17T15:00:00"},
+            {"name": "Match 4", "venueTime": "2018-11-17T16:30:00"}
+        ]
+    }, 
+    "Y3S4_TS": {
+        "eventName": "Test Server Deployment of Operation Wind Bastion",
+        "venueTime": "2018-11-20T13:30",
+        "timeZone": "Canada/Eastern",
+        "schedule": null
+    },
+    "BonusRenown_20181201": {
+        "eventName": "Bonus Renown Event",
+        "venueTime": "2018-12-01T12:01",
+        "timeZone": "Canada/Eastern",
+        "schedule": [
+            {"name": "Renown boost starts", "venueTime": "2018-12-01T12:01"},
+            {"name": "Renown boost ends", "venueTime": "2018-12-02T12:01"}
+        ]
+    },
+    "Y3S4": {
+        "eventName": "Deployment of Operation Wind Bastion",
+        "venueTime": "2018-12-04T09:00",
+        "timeZone": "Canada/Eastern",
+        "schedule": [
+            {"name": "Maintenance on PC (for 1 hour)", "venueTime": "2018-12-04T09:00"},
+            {"name": "Maintenance on PS4 (for 1 hour)", "venueTime": "2018-12-04T10:00"},
+            {"name": "Maintenance on XB1 (for 1 hour)", "venueTime": "2018-12-04T11:00"}
+        ]
+    },
+    "Y3S4.2": {
+        "eventName": "Deployment of Y3S4.2 patch",
+        "venueTime": "2019-02-05T09:00",
+        "timeZone": "Canada/Eastern",
+        "schedule": [
+            {"name": "PC deployment (lasting 30 minutes)", "venueTime": "2019-02-05T09:00"},
+            {"name": "PS4 deployment (lasting 30 minutes)", "venueTime": "2019-02-06T09:00"},
+            {"name": "XB1 deployment (lasting 30 minutes)", "venueTime": "2019-02-06T10:00"}
+        ]
+    },
+    "FreeWeekend_201902": {
+        "eventName": "Free weekend (Feb 2019)",
+        "venueTime": "2019-02-14T09:00",
+        "timeZone": "US/Pacific",
+        "schedule": [
+            {"name": "Preload available\n\n\n", "venueTime": "2019-02-12T09:00"},
+            {"name": "Free Weekend starts", "venueTime": "2019-02-14T09:00"},
+            {"name": "Free Weekend ends", "venueTime": "2019-02-17T12:00"}
+        ]
+    },
+    "SI2019_Finals": {
+        "eventName": "Six Invitational 2019: Main Event Day 3",
+        "venueTime": "2019-02-17T11:30",
+        "timeZone": "Canada/Eastern",
+        "schedule": [
+            {"name": "🎀 Opening + Day 2 Recap", "venueTime": "2019-02-17T11:30"},
+            {"name": "📋 Year 4 Roadmap", "venueTime": "2019-02-17T12:00"},
+            {"name": "⚔ All Star Game", "venueTime": "2019-02-17T12:40"},
+            {"name": "🎉 New Operation Reveal (incl. orchestra)", "venueTime": "2019-02-17T13:30"},
+            {"name": "⚔ Grand Final", "venueTime": "2019-02-17T14:30"},
+            {"name": "🏆 Trophy Ceremony", "venueTime": "2019-02-17T19:30"},
+            {"name": "🎬 Final Wrap-Up", "venueTime": "2019-02-17T20:00"}
+
+        ]
+    },
+    "Y4S1": {
+        "eventName": "Deployment of Operation Burnt Horizon",
+        "venueTime": "2019-03-06T09:00",
+        "timeZone": "Canada/Eastern",
+        "schedule": [
+            {"name": "Maintenance on PC (for 1 hour)", "venueTime": "2019-03-06T09:00"},
+            {"name": "Maintenance on PS4 (for 1 hour)", "venueTime": "2019-03-06T10:00"},
+            {"name": "Maintenance on XB1 (for 1 hour)", "venueTime": "2019-03-06T11:00"}
+        ]
+    },
+    "BonusRenown_20190413": {
+        "eventName": "50% Bonus Renown Event (PC)",
+        "venueTime": "2019-04-13T08:00",
+        "timeZone": "Canada/Eastern",
+        "schedule": [
+            {"name": "Event ends", "venueTime": "2019-04-14T12:00"}
+        ]
+    },
+    "BonusRenown_20190418": {
+        "eventName": "50% Bonus Renown Event (All platforms)",
+        "venueTime": "2019-04-18T09:00",
+        "timeZone": "Canada/Eastern",
+        "schedule": [
+            {"name": "Event ends", "venueTime": "2019-04-19T09:00"}
+        ]
+    },
+    "PLS9Finals_Day1": {
+        "eventName": "Rainbow Six Pro League Season IX Finals: Day 1",
+        "venueTime": "2019-05-18T12:30",
+        "timeZone": "Europe/Rome",
+        "schedule": [
+            {"name": "Opening Ceremony", "venueTime": "2019-05-18T12:30"},
+            {"name": "🏅 Fnatic vs. Nora Rengo", "venueTime": "2019-05-18T13:00"},
+            {"name": "🏅 Team Empire vs. Darkzero", "venueTime": "2019-05-18T16:00"},
+            {"name": "🏅 Lestream Esport vs. Faze Clan", "venueTime": "2019-05-18T19:00"},
+            {"name": "🏅 Immortals vs. Evil Geniuses", "venueTime": "2019-05-18T22:00"}
+        ]
+    },
+    "PLS9Finals_Day2": {
+        "eventName": "Rainbow Six Pro League Season IX Finals: Day 2",
+        "venueTime": "2019-05-19T13:30",
+        "timeZone": "Europe/Rome",
+        "schedule": [
+            {"name": "Opening Ceremony", "venueTime": "2019-05-19T13:30"},
+            {"name": "🏅 Semi-Final #1", "venueTime": "2019-05-19T14:20"},
+            {"name": "🏅 Semi-Final #2", "venueTime": "2019-05-19T17:30"},
+            {"name": "🎉 Operation Phantom Sight: Reveal Segment", "venueTime": "2019-05-19T20:30"},
+            {"name": "🏆 Grand Final", "venueTime": "2019-05-19T21:20"}
+        ]
+    },
+    "E32019": {
+        "eventName": "E3 2019",
+        "venueTime": null,
+        "description": "The \"schedule\" for E3 2019! \nInformation based on Twitch\"s E3 event page at https://www.twitch.tv/events/szEF78o9Re6QXyvAa8AAnw.",
+        "timeZone": "America/Los_Angeles",
+        "schedule": [
+            {"name": "EA", "venueTime": "2019-06-08T09:15"},
+            {"separator": true},
+            {"name": "Xbox", "venueTime": "2019-06-09T13:00"},
+            {"name": "Bethesda", "venueTime": "2019-06-09T17:30"},
+            {"name": "Devolver Digital", "venueTime": "2019-06-09T19:00"},
+            {"separator": true},
+            {"name": "PC Gaming Show", "venueTime": "2019-06-10T10:00"},
+            {"name": "Ubisoft", "venueTime": "2019-06-10T13:00"},
+            {"name": "Square Enix", "venueTime": "2019-06-10T18:00"},
+            {"separator": true},
+            {"name": "Nintendo Direct", "venueTime": "2019-06-11T09:00"}
+        ]
+    },
+    "SixMajorRaleigh/1": {
+        "eventName": "Raleigh Major 2019: Day 1",
+        "venueTime": "2019-08-16T09:00",
+        "description": "<a href=\"#SixMajorRaleigh/1\">Day 1</a> / <a href=\"#SixMajorRaleigh/2\">Day 2</a> / <a href=\"#SixMajorRaleigh/3\">Day 3</a>. Times are estimates based on match length and may change. Watch on <a href=\"https://www.twitch.tv/rainbow6\">Twitch</a>!",
+        "timeZone": "America/New_York",
+        "schedule": [
+            {"name": "Opening Ceremony", "venueTime": "2019-08-16T09:00"},
+            {"name": "🏅 Quarter Final 1", "venueTime": "2019-08-16T10:00"},
+            {"name": "🏅 Quarter Final 2", "venueTime": "2019-08-16T13:00"},
+            {"name": "🏅 Quarter Final 3", "venueTime": "2019-08-16T16:00"},
+            {"name": "🏅 Quarter Final 4", "venueTime": "2019-08-16T19:00"},
+            {"name": "Daily Wrap-up", "venueTime": "2019-08-16T22:20"}
+        ]
+    },
+    "SixMajorRaleigh/2": {
+        "eventName": "Raleigh Major 2019: Day 2",
+        "venueTime": "2019-08-17T10:30",
+        "description": "<a href=\"#SixMajorRaleigh/1\">Day 1</a> / <a href=\"#SixMajorRaleigh/2\">Day 2</a> / <a href=\"#SixMajorRaleigh/3\">Day 3</a>. Times are estimates based on match length and may change. Watch on <a href=\"https://www.twitch.tv/rainbow6\">Twitch</a>!",
+        "timeZone": "America/New_York",
+        "schedule": [
+            {"name": "Pre-show", "venueTime": "2019-08-17T10:30"},
+            {"name": "🏅 Showmatch", "venueTime": "2019-08-17T11:00"},
+            {"name": "🏅 Semi Final 1", "venueTime": "2019-08-17T12:30"},
+            {"name": "🏅 Semi Final 2", "venueTime": "2019-08-17T15:30"},
+            {"name": "Daily Wrap-up", "venueTime": "2019-08-17T22:20"}
+        ]
+    },
+    "SixMajorRaleigh/3": {
+        "eventName": "Raleigh Major 2019: Day 3",
+        "venueTime": "2019-08-18T10:30",
+        "description": "<a href=\"#SixMajorRaleigh/1\">Day 1</a> / <a href=\"#SixMajorRaleigh/2\">Day 2</a> / <a href=\"#SixMajorRaleigh/3\">Day 3</a>. Times are estimates based on match length and may change. Watch on <a href=\"https://www.twitch.tv/rainbow6\">Twitch</a>!",
+        "timeZone": "America/New_York",
+        "schedule": [
+            {"name": "Opening Ceremony", "venueTime": "2019-08-18T10:30"},
+            {"name": "🏅 Showmatch", "venueTime": "2019-08-18T11:00"},
+            {"name": "🎉 Operation Ember Rise Reveal and Esports Panel", "venueTime": "2019-08-18T13:30"},
+            {"name": "🏅 Grand Final  ", "venueTime": "2019-08-18T14:30"},
+            {"name": "Closing Ceremony", "venueTime": "2019-08-18T19:30"}
+        ]
+    },
+    "BonusRenown_20191018": {
+        "eventName": "25% Bonus Renown event for PC",
+        "venueTime": "2019-10-18T20:00",
+        "timeZone":"Canada/Eastern",
+        "schedule":[
+            {"name":"Event starts","venueTime":"2019-10-18T20:00"},
+            {"name":"Event ends","venueTime":"2019-10-19T20:00"}
+        ]
+    },
+    "PLS10Finals/1": {
+        "eventName": "Rainbow Six Pro League Season X Finals: Day 1",
+        "venueTime": "2019-11-09T10:00",
+        "description": "View schedule for: <strong><a href=\"#PLS10Finals/1\">Day 1</a> / <a href=\"#PLS10Finals/2\">Day 2</a></strong>. Useful links: <a href=\"https://rainbow6.ubisoft.com/siege/en-us/news/detail.aspx?c=tcm:154-357572-16&ct=tcm:154-76770-32\">Event Guide</a>, <a href=\"https://www.twitch.tv/rainbow6\">Rainbow6 on Twitch</a>, <a href=\"https://twitter.com/R6esports/status/1192741863171641344\">schedule update source</a>",
+        "timeZone":"Japan",
+        "schedule":[
+            {"name":"Opening Ceremony","venueTime":"2019-11-09T10:00"},
+            {"name":"🏆 Quarter Final 1 - DarkZero Esports vs. FaZe Clan", "venueTime":"2019-11-09T10:15"},
+            {"name":"🏆 Quarter Final 2 - Natus Vincere vs. Wildcard Gaming", "venueTime":"2019-11-09T13:10"},
+            {"name":"🏆 Quarter Final 3 - Giants Gaming vs. Aerowolf", "venueTime":"2019-11-09T16:00"},
+            {"name":"🏆 Quarter Final 4 - Ninjas in Pyjamas vs. Team Reciprocity", "venueTime":"2019-11-09T19:00"}
+        ]
+    },
+    "PLS10Finals/2": {
+        "eventName": "Rainbow Six Pro League Season X Finals: Day 2",
+        "venueTime": "2019-11-10T09:50",
+        "description": "View schedule for: <strong><a href=\"#PLS10Finals/1\">Day 1</a> / <a href=\"#PLS10Finals/2\">Day 2</a></strong>. Useful links: <a href=\"https://rainbow6.ubisoft.com/siege/en-us/news/detail.aspx?c=tcm:154-357572-16&ct=tcm:154-76770-32\">Event Guide</a>, <a href=\"https://www.twitch.tv/rainbow6\">Rainbow6 on Twitch</a>, <a href=\"https://twitter.com/R6esports/status/1192741863171641344\">schedule update source</a>",
+        "timeZone":"Japan",
+        "schedule":[
+            {"name":"Opening Ceremony","venueTime":"2019-11-10T09:50"},
+            {"name":"🏆 Semi Final 1","venueTime":"2019-11-10T10:00"},
+            {"name":"🏆 Semi Final 2","venueTime":"2019-11-10T13:00"},
+            {"name":"🎬 Operation Reveal","venueTime":"2019-11-10T16:00"},
+            {"name":"🏆 Grand Final","venueTime":"2019-11-10T16:40"}
+        ]
+    },
+    "Y5S1": {
+        "eventName": "Deployment of Operation Void Edge",
+        "venueTime": "2020-03-10T09:00",
+        "description": "View the changes here: <a href=\"https://rainbow6.com/voidedge\" target=\"_blank\">Patch notes</a> / <a href=\"http://rainbow6.com/patchnotes/voidedge_add\" target=\"_blank\">Addendum</a>",
+        "timeZone": "Canada/Eastern",
+        "schedule": [
+            {"name": "Maintenance on PC", "venueTime": "2020-03-10T09:00"},
+            {"name": "Maintenance on XB1", "venueTime": "2020-03-10T10:00"},
+            {"name": "Maintenance on PS4", "venueTime": "2020-03-10T11:00"}
+        ]
+    },
+    "BonusRenown_20200320": {
+        "eventName": "PC and PS4: 3-day 50% Bonus Renown event",
+        "description": "As compensation following the degradation on PC/PS4 this past weekend, Ubisoft will be activating a 3-day 50% renown boost event for PC and PS4.",
+        "venueTime": "2020-03-20T09:00",
+        "timeZone":"Canada/Eastern",
+        "schedule":[
+            {"name":"Event starts","venueTime":"2020-03-20T09:00"},
+            {"name":"Event ends","venueTime":"2020-03-23T09:00"}
+        ]
+    }
+}

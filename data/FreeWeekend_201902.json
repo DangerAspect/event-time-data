@@ -1,0 +1,19 @@
+{
+    "eventName": "Free weekend (Feb 2019)",
+    "venueTime": "2019-02-14T09:00",
+    "timeZone": "US/Pacific",
+    "schedule": [
+        {
+            "name": "Preload available\n\n\n",
+            "venueTime": "2019-02-12T09:00"
+        },
+        {
+            "name": "Free Weekend starts",
+            "venueTime": "2019-02-14T09:00"
+        },
+        {
+            "name": "Free Weekend ends",
+            "venueTime": "2019-02-17T12:00"
+        }
+    ]
+}

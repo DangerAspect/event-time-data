@@ -1,0 +1,28 @@
+{
+    "eventName": "Rainbow Six Pro League Season X Finals: Day 1",
+    "venueTime": "2019-11-09T10:00",
+    "description": "View schedule for: <strong><a href=\"#PLS10Finals/1\">Day 1</a> / <a href=\"#PLS10Finals/2\">Day 2</a></strong>. Useful links: <a href=\"https://rainbow6.ubisoft.com/siege/en-us/news/detail.aspx?c=tcm:154-357572-16&ct=tcm:154-76770-32\">Event Guide</a>, <a href=\"https://www.twitch.tv/rainbow6\">Rainbow6 on Twitch</a>, <a href=\"https://twitter.com/R6esports/status/1192741863171641344\">schedule update source</a>",
+    "timeZone": "Japan",
+    "schedule": [
+        {
+            "name": "Opening Ceremony",
+            "venueTime": "2019-11-09T10:00"
+        },
+        {
+            "name": "\ud83c\udfc6 Quarter Final 1 - DarkZero Esports vs. FaZe Clan",
+            "venueTime": "2019-11-09T10:15"
+        },
+        {
+            "name": "\ud83c\udfc6 Quarter Final 2 - Natus Vincere vs. Wildcard Gaming",
+            "venueTime": "2019-11-09T13:10"
+        },
+        {
+            "name": "\ud83c\udfc6 Quarter Final 3 - Giants Gaming vs. Aerowolf",
+            "venueTime": "2019-11-09T16:00"
+        },
+        {
+            "name": "\ud83c\udfc6 Quarter Final 4 - Ninjas in Pyjamas vs. Team Reciprocity",
+            "venueTime": "2019-11-09T19:00"
+        }
+    ]
+}

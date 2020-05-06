@@ -1,0 +1,11 @@
+{
+    "eventName": "50% Bonus Renown Event (All platforms)",
+    "venueTime": "2019-04-18T09:00",
+    "timeZone": "Canada/Eastern",
+    "schedule": [
+        {
+            "name": "Event ends",
+            "venueTime": "2019-04-19T09:00"
+        }
+    ]
+}

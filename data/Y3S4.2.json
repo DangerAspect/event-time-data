@@ -1,0 +1,19 @@
+{
+    "eventName": "Deployment of Y3S4.2 patch",
+    "venueTime": "2019-02-05T09:00",
+    "timeZone": "Canada/Eastern",
+    "schedule": [
+        {
+            "name": "PC deployment (lasting 30 minutes)",
+            "venueTime": "2019-02-05T09:00"
+        },
+        {
+            "name": "PS4 deployment (lasting 30 minutes)",
+            "venueTime": "2019-02-06T09:00"
+        },
+        {
+            "name": "XB1 deployment (lasting 30 minutes)",
+            "venueTime": "2019-02-06T10:00"
+        }
+    ]
+}

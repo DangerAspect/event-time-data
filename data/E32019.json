@@ -1,0 +1,49 @@
+{
+    "eventName": "E3 2019",
+    "venueTime": null,
+    "description": "The \"schedule\" for E3 2019! \nInformation based on Twitch\"s E3 event page at https://www.twitch.tv/events/szEF78o9Re6QXyvAa8AAnw.",
+    "timeZone": "America/Los_Angeles",
+    "schedule": [
+        {
+            "name": "EA",
+            "venueTime": "2019-06-08T09:15"
+        },
+        {
+            "separator": true
+        },
+        {
+            "name": "Xbox",
+            "venueTime": "2019-06-09T13:00"
+        },
+        {
+            "name": "Bethesda",
+            "venueTime": "2019-06-09T17:30"
+        },
+        {
+            "name": "Devolver Digital",
+            "venueTime": "2019-06-09T19:00"
+        },
+        {
+            "separator": true
+        },
+        {
+            "name": "PC Gaming Show",
+            "venueTime": "2019-06-10T10:00"
+        },
+        {
+            "name": "Ubisoft",
+            "venueTime": "2019-06-10T13:00"
+        },
+        {
+            "name": "Square Enix",
+            "venueTime": "2019-06-10T18:00"
+        },
+        {
+            "separator": true
+        },
+        {
+            "name": "Nintendo Direct",
+            "venueTime": "2019-06-11T09:00"
+        }
+    ]
+}

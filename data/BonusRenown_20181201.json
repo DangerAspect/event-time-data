@@ -1,0 +1,15 @@
+{
+    "eventName": "Bonus Renown Event",
+    "venueTime": "2018-12-01T12:01",
+    "timeZone": "Canada/Eastern",
+    "schedule": [
+        {
+            "name": "Renown boost starts",
+            "venueTime": "2018-12-01T12:01"
+        },
+        {
+            "name": "Renown boost ends",
+            "venueTime": "2018-12-02T12:01"
+        }
+    ]
+}

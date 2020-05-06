@@ -1,0 +1,19 @@
+{
+    "eventName": "Deployment of Operation Burnt Horizon",
+    "venueTime": "2019-03-06T09:00",
+    "timeZone": "Canada/Eastern",
+    "schedule": [
+        {
+            "name": "Maintenance on PC (for 1 hour)",
+            "venueTime": "2019-03-06T09:00"
+        },
+        {
+            "name": "Maintenance on PS4 (for 1 hour)",
+            "venueTime": "2019-03-06T10:00"
+        },
+        {
+            "name": "Maintenance on XB1 (for 1 hour)",
+            "venueTime": "2019-03-06T11:00"
+        }
+    ]
+}

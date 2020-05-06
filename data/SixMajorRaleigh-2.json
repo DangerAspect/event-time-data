@@ -1,0 +1,28 @@
+{
+    "eventName": "Raleigh Major 2019: Day 2",
+    "venueTime": "2019-08-17T10:30",
+    "description": "<a href=\"#SixMajorRaleigh/1\">Day 1</a> / <a href=\"#SixMajorRaleigh/2\">Day 2</a> / <a href=\"#SixMajorRaleigh/3\">Day 3</a>. Times are estimates based on match length and may change. Watch on <a href=\"https://www.twitch.tv/rainbow6\">Twitch</a>!",
+    "timeZone": "America/New_York",
+    "schedule": [
+        {
+            "name": "Pre-show",
+            "venueTime": "2019-08-17T10:30"
+        },
+        {
+            "name": "\ud83c\udfc5 Showmatch",
+            "venueTime": "2019-08-17T11:00"
+        },
+        {
+            "name": "\ud83c\udfc5 Semi Final 1",
+            "venueTime": "2019-08-17T12:30"
+        },
+        {
+            "name": "\ud83c\udfc5 Semi Final 2",
+            "venueTime": "2019-08-17T15:30"
+        },
+        {
+            "name": "Daily Wrap-up",
+            "venueTime": "2019-08-17T22:20"
+        }
+    ]
+}

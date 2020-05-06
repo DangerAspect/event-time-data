@@ -1,0 +1,27 @@
+{
+    "eventName": "Rainbow Six Pro League Season IX Finals: Day 1",
+    "venueTime": "2019-05-18T12:30",
+    "timeZone": "Europe/Rome",
+    "schedule": [
+        {
+            "name": "Opening Ceremony",
+            "venueTime": "2019-05-18T12:30"
+        },
+        {
+            "name": "\ud83c\udfc5 Fnatic vs. Nora Rengo",
+            "venueTime": "2019-05-18T13:00"
+        },
+        {
+            "name": "\ud83c\udfc5 Team Empire vs. Darkzero",
+            "venueTime": "2019-05-18T16:00"
+        },
+        {
+            "name": "\ud83c\udfc5 Lestream Esport vs. Faze Clan",
+            "venueTime": "2019-05-18T19:00"
+        },
+        {
+            "name": "\ud83c\udfc5 Immortals vs. Evil Geniuses",
+            "venueTime": "2019-05-18T22:00"
+        }
+    ]
+}
