@@ -28,7 +28,7 @@ In addition to what's allowed in the editor, you can also add a description, and
 ```json
 {
     "eventName": "Example event",
-    "venueTime": "2020-09-05T08:45",
+    "venueTime": "2020-03-10T08:45",
     // DESCRIPTION: You can add a description field with HTML here.
     "description": "This is an example event. <a href='https://github.com/DangerAspect/event-time-data' target='_blank'>HTML is allowed</a>.",
     "timeZone": "Asia/Singapore",
