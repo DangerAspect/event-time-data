@@ -5,11 +5,11 @@
     "timeZone": "Canada/Eastern",
     "schedule": [
         {
-            "name": "Maintenance on PS4",
+            "name": "Maintenance on XB1",
             "venueTime": "2020-06-16T08:00"
         },
         {
-            "name": "Maintenance on XB1",
+            "name": "Maintenance on PS4",
             "venueTime": "2020-06-16T09:00"
         },
         {
