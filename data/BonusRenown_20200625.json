@@ -1,0 +1,16 @@
+{
+    "eventName": "3-day 50% Bonus Renown event (all platforms)",
+    "description": "Following the recent EU connectivity issues, a 50% renown Booster will be enabled as follows:<br>🕹 Platforms: PC, PS4, Xbox<br>🌍 Regions: Worldwide",
+    "venueTime": "2020-06-25T11:00",
+    "timeZone": "Europe/Paris",
+    "schedule": [
+        {
+            "name": "Event starts",
+            "venueTime": "2020-06-25T11:00"
+        },
+        {
+            "name": "Event ends",
+            "venueTime": "2020-06-29T11:00"
+        }
+    ]
+}
