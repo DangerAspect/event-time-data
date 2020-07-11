@@ -1,0 +1,20 @@
+{
+    "eventName": "Ubisoft Forward",
+    "description": "An E3-style showcase with exclusive game news, exciting reveals, and much more. <a href='https://ubisoft.com/forward' target='_blank'>More details</a>.",
+    "venueTime": "2020-07-12T20:00",
+    "timeZone": "Europe/Paris",
+    "schedule": [
+        {
+            "name": "Pre-show",
+            "venueTime": "2020-07-12T20:00"
+        },
+        {
+            "name": "Main show",
+            "venueTime": "2020-07-12T21:00"
+        },
+        {
+            "name": "Post-show",
+            "venueTime": "2020-07-12T21:45"
+        }
+    ]
+}
