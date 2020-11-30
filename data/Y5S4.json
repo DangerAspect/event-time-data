@@ -1,0 +1,20 @@
+{
+    "eventName": "Deployment of Operation Neon Dawn",
+    "venueTime": "2020-12-01T08:00",
+    "description": "View the changes here: <a href=\"https://rainbow6.com/neondawn\" target=\"_blank\">Patch notes</a><br><br><strong>Approximately 1 hour downtime per platform</strong>",
+    "timeZone": "Canada/Eastern",
+    "schedule": [
+        {
+            "name": "Maintenance on PC",
+            "venueTime": "2020-12-01T08:00"
+        },
+        {
+            "name": "Maintenance on PlayStation",
+            "venueTime": "2020-12-01T09:00"
+        },
+        {
+            "name": "Maintenance on Xbox",
+            "venueTime": "2020-12-01T10:00"
+        }
+    ]
+}
