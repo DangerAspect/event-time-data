@@ -1,0 +1,20 @@
+{
+    "eventName": "Ubisoft Forward June 2021",
+    "venueTime": null,
+    "description": "Learn more at <a href=\"https://www.ubisoft.com/forward\" target=\"_blank">ubisoft.com/forward</a>.",
+    "timeZone": "US/Pacific",
+    "schedule": [
+        {
+            "name": "Pre-show",
+            "venueTime": "2021-06-12T11:00"
+        },
+        {
+            "name": "Main show",
+            "venueTime": "2021-06-12T12:00"
+        },
+        {
+            "name": "Post-show",
+            "venueTime": "2021-06-12T13:00"
+        }
+    ]
+}
